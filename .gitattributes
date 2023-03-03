@@ -1,0 +1,7 @@
+# Treat notebooks as text but avoid noisy diffs on merge
+*.ipynb linguist-language=Jupyter\ Notebook
+*.ipynb -diff
+
+# Normalize line endings
+* text=auto
+*.csv text
