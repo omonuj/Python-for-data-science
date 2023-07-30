@@ -8,3 +8,9 @@ collection of self-contained Jupyter notebooks, one per topic.
 - Python fundamentals (variables, data types, operators)
 - Collections, control flow, functions, OOP
 - NumPy, Pandas, and visualization (more coming)
+
+## Coming soon
+
+- Matplotlib & Seaborn for plotting
+- Statistics: the Normal Distribution & the Central Limit Theorem
+- A worked churn-modelling dataset for practice
